@@ -23,6 +23,7 @@
 - [7.1 快速排序的描述：小节回顾与习题 7.1-1 至 7.1-4](chapter-07/section-7.1-exercises.md)
 - [7.2 快速排序的性能：小节回顾与习题 7.2-1 至 7.2-6](chapter-07/section-7.2-exercises.md)
 - [7.3 快速排序的随机化版本：小节回顾与习题 7.3-1 至 7.3-2](chapter-07/section-7.3-exercises.md)
+- [7.4 快速排序的分析：小节回顾与习题 7.4-1 至 7.4-6](chapter-07/section-7.4-exercises.md)
 
 ## 记号约定
 
