@@ -7,6 +7,7 @@
 ### 第 6 章 堆排序
 
 - [6.1 堆：习题 6.1-1 至 6.1-7](chapter-06/section-6.1-exercises.md)
+- [6.2 维护堆的性质：习题 6.2-1 至 6.2-6](chapter-06/section-6.2-exercises.md)
 
 ## 记号约定
 
