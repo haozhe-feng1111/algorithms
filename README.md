@@ -7,6 +7,7 @@
 ### 第 2 章 算法基础
 
 - [2.1 插入排序：小节回顾与习题 2.1-1 至 2.1-4](chapter-02/section-2.1-exercises.md)
+- [2.2 分析算法：小节回顾与习题 2.2-1 至 2.2-4](chapter-02/section-2.2-exercises.md)
 
 ### 第 6 章 堆排序
 
