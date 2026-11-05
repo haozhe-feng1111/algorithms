@@ -10,6 +10,7 @@
 - [6.2 维护堆的性质：习题 6.2-1 至 6.2-6](chapter-06/section-6.2-exercises.md)
 - [6.3 建堆：习题 6.3-1 至 6.3-3](chapter-06/section-6.3-exercises.md)
 - [6.4 堆排序：习题 6.4-1 至 6.4-5](chapter-06/section-6.4-exercises.md)
+- [6.5 优先队列：习题 6.5-1 至 6.5-9](chapter-06/section-6.5-exercises.md)
 
 ## 记号约定
 
