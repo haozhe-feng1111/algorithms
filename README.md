@@ -18,6 +18,10 @@
 - [6.4 堆排序：习题 6.4-1 至 6.4-5](chapter-06/section-6.4-exercises.md)
 - [6.5 优先队列：习题 6.5-1 至 6.5-9](chapter-06/section-6.5-exercises.md)
 
+### 第 7 章 快速排序
+
+- [7.1 快速排序的描述：小节回顾与习题 7.1-1 至 7.1-4](chapter-07/section-7.1-exercises.md)
+
 ## 记号约定
 
 - 数组下标从 1 开始，与教材一致。
